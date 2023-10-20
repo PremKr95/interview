@@ -1,4 +1,5 @@
-const apparelData = [
+{
+const data = [
   {
     id: 1,
     name: "Slim Fit Jeans",
@@ -264,3 +265,4 @@ const apparelData = [
     price: 
   }
 ]
+  }
